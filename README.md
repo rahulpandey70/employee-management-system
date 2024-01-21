@@ -48,7 +48,7 @@ For creating, updating and deleting employee records, User role have to be admin
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/employee-management-system.git
+   git clone https://github.com/rahulpandey70/employee-management-system.git
    cd employee-management-system
     ```
 
